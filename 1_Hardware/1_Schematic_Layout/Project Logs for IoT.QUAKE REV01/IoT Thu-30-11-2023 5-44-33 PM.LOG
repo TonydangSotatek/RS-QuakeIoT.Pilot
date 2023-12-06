@@ -1,0 +1,7 @@
+Change Component Library : Designator=DIO1 Old Library=Thu Vi?n Altium FULL HD.IntLib New Library=Thu Vi?n Altium FULL HD.IntLib
+Change Component Library : Designator=DIO2 Old Library=Thu Vi?n Altium FULL HD.IntLib New Library=Thu Vi?n Altium FULL HD.IntLib
+Change Component Library : Designator=Q6 Old Library=Thu Vi?n Altium FULL HD.IntLib New Library=Thu Vi?n Altium FULL HD.IntLib
+Change Component Library : Designator=Q7 Old Library=Thu Vi?n Altium FULL HD.IntLib New Library=Thu Vi?n Altium FULL HD.IntLib
+Change Class Name : Old Net Name=EarthQuake New Net Name=IoT.QUAKE REV01
+Added Member To Class: ClassName=IoT.QUAKE REV01 Member=Component J3 B4B-XH-AM__LF__SN_
+Added Room: Name=IoT.QUAKE REV01

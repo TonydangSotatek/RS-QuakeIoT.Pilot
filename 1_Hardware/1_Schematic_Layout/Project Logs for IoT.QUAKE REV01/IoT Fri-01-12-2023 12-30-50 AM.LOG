@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Cx18 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Comment : Designator=Cx18 Old Comment=16V/2.2nF New Comment=10V/2.2nF
+Added Member To Class: ClassName=IoT.QUAKE REV01 Member=Component Q4 FS8205A
+Added Member To Class: ClassName=IoT.QUAKE REV01 Member=Component U1 CP2102-GM
+Added Room: Name=IoT.QUAKE REV01

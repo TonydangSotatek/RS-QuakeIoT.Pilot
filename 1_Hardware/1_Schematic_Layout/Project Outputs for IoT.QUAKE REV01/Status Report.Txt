@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Schematic Document [IoT.QUAKE REV01.SchDoc]
+   Generated File[Bill of Materials-IoT.QUAKE REV01.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:11:18 PM On Tue-05-12-2023

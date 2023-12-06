@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: IoT.QUAKE REV01.GBR   Tue-05-12-2023  3:11:06 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GPB                Bottom Pad Master                       
+.GTP                Top Paste                               
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GBS                Bottom Solder                           
+.GPT                Top Pad Master                          
+.GM5                Mechanical 5                            
+.GM7                Mechanical 7                            
+.GTS                Top Solder                              
+.GM11               Mechanical 11                           
+.GM13               Mechanical 13                           
+.GM14               Mechanical 14                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------
